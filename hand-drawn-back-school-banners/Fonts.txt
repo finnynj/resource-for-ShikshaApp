@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Josefin Sans
+Author: Typemade
+Url: http://www.fontsquirrel.com/fonts/josefin-sans
+
+Font: Leckerli One
+Author: Gesine Todt
+Url: http://www.fontsquirrel.com/fonts/leckerli-one
+
+Font: Glacial Indifference
+Author: Hanken Design Co.
+Url: http://www.fontsquirrel.com/fonts/glacial-indifference
